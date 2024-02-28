@@ -40,6 +40,8 @@
 </div>
 
 ---
+### :fire: My Stats :
+
 <div align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nat-crit20&theme=nordfox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
