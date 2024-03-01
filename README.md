@@ -22,7 +22,7 @@
 
 - :seedling: I am currently learning Algorithms and Data Structures.
 
-- :zap: In my free time, I work on projects, and read tech articles.
+- :zap: In my free time, I work on projects, read, and play Magic The Gathering.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-greuel/)
 ---
